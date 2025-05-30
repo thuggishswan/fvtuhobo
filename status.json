@@ -1,10 +1,10 @@
 {
   "logger_sn": "22222922",
-  "sensor_sn": "22220264-2",
+  "sensor_sn": "22220264-4",
   "timestamp": "2025-05-30 19:03:00Z",
   "data_type": "CURRENT",
   "data_type_id": "1",
-  "value": 14.030440717196942,
-  "unit": "pH",
-  "sensor_measurement_type": "pH"
+  "value": 56.45699942014832,
+  "unit": "°F",
+  "sensor_measurement_type": "Water Temperature"
 }
