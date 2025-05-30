@@ -16,7 +16,7 @@
     "data_type": "CURRENT",
     "data_type_id": "1",
     "value": "5660.22",
-    "unit": "us/cm",
+    "unit": "uS/cm",
     "sensor_measurement_type": "Conductivity"
   },
   {
