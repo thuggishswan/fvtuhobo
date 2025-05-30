@@ -1,10 +1,10 @@
 {
   "logger_sn": "22222922",
-  "sensor_sn": "22220264-1",
+  "sensor_sn": "22220264-2",
   "timestamp": "2025-05-30 19:03:00Z",
   "data_type": "CURRENT",
   "data_type_id": "1",
-  "value": 5665.322094218321,
-  "unit": "us/cm",
-  "sensor_measurement_type": "Analog"
+  "value": 14.030440717196942,
+  "unit": "pH",
+  "sensor_measurement_type": "pH"
 }
