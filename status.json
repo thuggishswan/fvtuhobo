@@ -1,10 +1,42 @@
-{
-  "logger_sn": "22222922",
-  "sensor_sn": "22220264-4",
-  "timestamp": "2025-05-30 19:03:00Z",
-  "data_type": "CURRENT",
-  "data_type_id": "1",
-  "value": 56.45699942014832,
-  "unit": "°F",
-  "sensor_measurement_type": "Water Temperature"
-}
+[
+  {
+    "logger_sn": "22222922",
+    "sensor_sn": "22222922-B",
+    "timestamp": "2025-05-30 19:05:00Z",
+    "data_type": "CURRENT",
+    "data_type_id": "1",
+    "value": 4.230191256830602,
+    "unit": "V",
+    "sensor_measurement_type": "Battery"
+  },
+  {
+    "logger_sn": "22222922",
+    "sensor_sn": "22220264-1",
+    "timestamp": "2025-05-30 19:03:00Z",
+    "data_type": "CURRENT",
+    "data_type_id": "1",
+    "value": 5665.322094218321,
+    "unit": "us/cm",
+    "sensor_measurement_type": "Analog"
+  },
+  {
+    "logger_sn": "22222922",
+    "sensor_sn": "22220264-2",
+    "timestamp": "2025-05-30 19:03:00Z",
+    "data_type": "CURRENT",
+    "data_type_id": "1",
+    "value": 14.030440717196942,
+    "unit": "pH",
+    "sensor_measurement_type": "pH"
+  },
+  {
+    "logger_sn": "22222922",
+    "sensor_sn": "22220264-4",
+    "timestamp": "2025-05-30 19:03:00Z",
+    "data_type": "CURRENT",
+    "data_type_id": "1",
+    "value": 56.45699942014832,
+    "unit": "°F",
+    "sensor_measurement_type": "Water Temperature"
+  }
+]
