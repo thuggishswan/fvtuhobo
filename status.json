@@ -1,1 +1,10 @@
-[{"status":"waiting for update"}]
+{
+  "logger_sn": "22222922",
+  "sensor_sn": "22222922-B",
+  "timestamp": "2025-05-30 19:05:00Z",
+  "data_type": "CURRENT",
+  "data_type_id": "1",
+  "value": 4.230191256830602,
+  "unit": "V",
+  "sensor_measurement_type": "Battery"
+}
